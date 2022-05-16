@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "name": "Mokhtari mohamed",
+        "address": "Rue  Hay salam mostaganem",
+        "about": " this about",
+        "joure de travling": "lundi",
+        "horaires d'ouverture" : "9h-22h",
+        "tel" : "333333",
+        "type de travling": "person"
+      }
+]
